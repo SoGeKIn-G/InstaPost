@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "674879839441",
+    "project_id": "instagrampost-8252f",
+    "storage_bucket": "instagrampost-8252f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674879839441:android:4c2929ea9ed07b7551b9f0",
+        "android_client_info": {
+          "package_name": "com.gauravbora.instagrampost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674879839441-6duimmfm8p31j1en0akii0b77ashc7sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gauravbora.instagrampost",
+            "certificate_hash": "dc08d43200db692e2293a09c00c72bba62156e50"
+          }
+        },
+        {
+          "client_id": "674879839441-ketj9htvn8s14lun8hu3u2gefps0ab73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-lVZ9xlqr3iBYcbaRDIdvZ4cA97Gxd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674879839441-8v9mk8f18qnfr6f4mulie5bf7msnfuf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
